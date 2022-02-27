@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>English liberty and property asserted in pursuance of the statute laws of this common-wealth. Discovering Israels sin in chusing a king, by several questions humbly propounded to the grave senators at Westminster. And to all others, who have the power of this nation in their hands.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84018</idno>
+            <idno type="STC">Wing E3095</idno>
+            <idno type="STC">Thomason E905_2</idno>
+            <idno type="STC">ESTC R207439</idno>
+            <idno type="EEBO-CITATION">99866488</idno>
+            <idno type="PROQUEST">99866488</idno>
+            <idno type="VID">168445</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168445)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 136:E905[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>English liberty and property asserted in pursuance of the statute laws of this common-wealth. Discovering Israels sin in chusing a king, by several questions humbly propounded to the grave senators at Westminster. And to all others, who have the power of this nation in their hands.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewell Chapman at the Crown in Popes-head-Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty --  Early works to 1800.</term>
+               <term>Law --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168445:1" rendition="simple:additions"/>
+            <p>ENGLISH Liberty and Property Aſſerted <hi>In purſuance of the Statute Laws of this Common-wealth.</hi>
+            </p>
+            <p>Diſcovering <hi>Iſraels</hi> Sin in chuſing a KING, BY SEVERAL QUESTIONS humbly propounded to the grave Senators at WESTMINSTER.</p>
+            <p>And to all others, who have the Power of this Nation in their hands.</p>
+            <q>
+               <p>That which is highly eſteemed amongſt men, is an abomination in the ſight of God,</p>
+               <bibl>Luk. 16.15.</bibl>
+            </q>
+            <q>
+               <p>I gave thee a King in my anger, and took him away in my wrath,</p>
+               <bibl>Hoſ. 13.11.</bibl>
+            </q>
+            <q>
+               <p>Take heed what yee do, for yee judge not for man, but for the Lord,</p>
+               <bibl>2 Chron. 19.6.</bibl>
+            </q>
+            <q>
+               <p>Now let them put away their Whoredomes, and the carkaſſes of their Kings far from mee, and I will dwell in the midſt of them for ever,</p>
+               <bibl>Ezek. 43.9.</bibl>
+            </q>
+            <p>
+               <add>march</add> LONDON, Printed for <hi>Livewell Chapman</hi> at the Crown in <hi>Popes-head-Alley.</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168445:2"/>
+            <pb n="3" facs="tcp:168445:2"/>
+            <head>Engliſh Liberty and Property Aſſerted.</head>
+            <p>
+               <hi>Qu.</hi> 1 WHether any King can poſſibly at any time bee choſen with greater conſent and approba<g ref="char:EOLhyphen"/>tion of the people, than was the firſt King of <hi>Iſrael, Saul?</hi> for it is ſaid, 1 <hi>Sam.</hi> 10.24. <hi>That all the people ſhouted and ſaid God ſave the King,</hi> and chap. 11.15. <hi>That Saul and all the People of Iſrael re<g ref="char:EOLhyphen"/>joyced greatly.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> 2 Whether notwithſtanding the ſaid free electi<g ref="char:EOLhyphen"/>on and univerſal approbation, the Lord did not from Heaven manifeſt this choice to bee a horrible wickedneſs in his ſight, by ſending thunder and rain in wheat harveſt, 1 <hi>Sam.</hi> 12.17. And did not the People acknowledge as much, ſaying (verſ. 19.) <hi>wee have added to all our ſinnes this evill, to ask us a King?</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> 3 Whether Gods ſevere puniſhment of <hi>Saul</hi> in rending the kingdome from him, for one ſinfull act (which man would take to bee an act of mercy at firſt ſight, in ſparing <hi>Agag,</hi> and zeal in preſerving the fatlings for ſacrifice) doth not evidently declare Gods indignation againſt King-ſhip, 1 <hi>Sam.</hi> 15.23.</p>
+            <p>
+               <hi>Qu.</hi> 4 Whether did not the Lord reckon with the People of <hi>Iſrael</hi> for their Kingly Government; and for this their great ſinne of making themſelves rather Beaſts than men, by ſubmitting the reaſon of the whole Nation to one man, when hee deſtroyed ſeventy thouſand of them by the Peſtilence in three days, for <hi>Davids</hi> one ſinne of numbring the people
+<pb n="4" facs="tcp:168445:3"/>2 <hi>Sam.</hi> 24.15. the Heathen could ſay, <hi>delirant reges, plectuntur Achivi.</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> 5 Whether the Lord by permitting <hi>Salomon</hi> (the wiſeſt of the meer ſonnes of men) to become a Fool by leaving the true God, who had twice ap<g ref="char:EOLhyphen"/>peared to him, and turning aſide to Idols, and go<g ref="char:EOLhyphen"/>ing after the abominations of the Heathens, 1 <hi>Kin.</hi> 11.5. did not point (as it were) with the finger at this beaſtly folly of <hi>Iſrael,</hi> in advancing one man to ſo great a height, as to put him above man, and to make him a King, that ſo they might even fall down, and worſhip the great Idol which they had ſet up?</p>
+            <p>
+               <hi>Qu.</hi> 6. Whether though the People of <hi>Iſraell</hi> had thus rejected the Lord in ſetting up a King, upon the revolting of the Ten Tribes from <hi>Rehoboam,</hi> when they cryed what portion have wee in <hi>David,</hi> to your Tents O <hi>Iſrael,</hi> becauſe he hearkned not to the coun<g ref="char:EOLhyphen"/>ſel of the old men, 1 <hi>King.</hi> 12.8. having all this time well ſmarted for their folly, and the Govern<g ref="char:EOLhyphen"/>ment of Kingſhip proving very burdenſome and ty<g ref="char:EOLhyphen"/>rannical (as appears 1 <hi>King.</hi> 12.9, 10) doth the Lord either blame or condemn the ſaid ten Tribes for their defection, or in any kind teſtifye his diſpleaſure a<g ref="char:EOLhyphen"/>gainſt them? nay, doth hee not plainly juſtify them therein, by ſending <hi>Shemaiah</hi> the Prophet, to their brethren, that would have gone out to warre againſt them, ſaying, <hi>Yee ſhall not go up to ſight againſt your brethren, return every man to his own houſe; for this thing is from mee, ſaith the Lord,</hi> 1 King. 12.24.</p>
+            <p>
+               <hi>Qu.</hi> 7. Whether is it not probable that the Lord would give as good Kings to his own <hi>peculiar people, whom hee loved as the apple of his eye,</hi> as to any other people whatſoever, and yet what horrid murders
+<pb n="5" facs="tcp:168445:3"/>and cruel bloodſhed, were there continually among the ſaid Kings of <hi>Iſrael</hi> to obtain the Crown; and how were the people vexed with warres continually, by reaſon of thoſe curſed Kings, and how few of the ſaid <hi>Kings</hi> have dyed in their beds, like other men. <hi>See the books of the Kings and</hi> Chroni<g ref="char:EOLhyphen"/>cles.</p>
+            <p>
+               <hi>Qu.</hi> 8. Whether doth not the Office of King-ſhip in the very nature and being thereof, tend directly by advancing prerogative to the enſlaving of the peo<g ref="char:EOLhyphen"/>ple, by whom it is eſtabliſht, and by magnifying its own power and grandeur perpetually to prey upon the peoples liberty, and property, according to the deſcription given thereof, 1 <hi>Sam.</hi> 8. from 11. to 19. v. It being as diametrically oppoſite to the Peoples Li<g ref="char:EOLhyphen"/>berty, as darkneſs is to light, Prerogative, and Free<g ref="char:EOLhyphen"/>dome, being like two ballances, when one is up, the o<g ref="char:EOLhyphen"/>ther is down, and hath not the experience of all ages in other Nations, and in our own, very lately given ſad and bleeding teſtimonies to the truth hereof?</p>
+            <p>
+               <hi>Qu.</hi> 9. Whether would it not make the heart and bowels of any Chriſtian to yern, tremble, and bleed within him, to conſider how the poor people of <hi>Iſrael,</hi> were puniſhed from time to time, for the wickedneſſe of their Kings, inſomuch as it is ſaid, 2 <hi>King.</hi> 14.26. <hi>The Lord ſaw the affliction of Iſrael, that it was very bitter,</hi> and have not war, and the plague been (as it were) entailed upon our own Nation on the account of Kingſhip from Generation to Ge<g ref="char:EOLhyphen"/>neration, and doth not the mercy of God in freeing the great City and Nation, both from the one and the other, ſince Kingſhip was aboliſhed, give clear teſtimony hereunto?</p>
+            <p>
+               <hi>Que.</hi> 10 Whether did not judgement and juſtice
+<pb n="6" facs="tcp:168445:4"/>run down like a might ſtream, whilſt the people of <hi>Iſrael</hi> in a free Commonwealth were under the go<g ref="char:EOLhyphen"/>vernment of their good <hi>Moſes, Joſhuas</hi> and <hi>Samuels;</hi> but when they would have Kings like the Heathens round about them; were not men made offenders for a word (though it were the Word of the Lord) to the impriſoning of their perſons, witneſſe the Pro<g ref="char:EOLhyphen"/>phet <hi>Jeremy, &amp;c. Jer.</hi> 32.3. And many others; nay, were they not cauſeleſly ſtript of their lives and properties, through the baſe luſts of their Kings, (though ſome of them good ones;) do wee not finde <hi>Naboth,</hi> 1 King. 21. <hi>in a ſolemn way of faſting, had his life taken away, that ſo his Vineyard might bee ob<g ref="char:EOLhyphen"/>tained by King Ahab;</hi> and <hi>Uriah,</hi> with many others loſt their lives, moſt trecherouſly, that ſo the Adul<g ref="char:EOLhyphen"/>tery with <hi>Bathſheba</hi> his wife might bee covered and concealed from the people, though it could not from the Lord, 2 <hi>Sam.</hi> 11. and 12. <hi>ch.</hi> And for the pride of <hi>Hezekiahs</hi> heart were not the children of <hi>Iſrael</hi> car<g ref="char:EOLhyphen"/>ried captive into <hi>Babylon,</hi> 2 <hi>King.</hi> 20.17, 18. And did not the Lord for the wickedneſſe of <hi>Manaſſeh, bring ſuch evil upon Jeruſalem and Judah, that whoever ſhould hear thereof, both his ears ſhould tingle,</hi> 2 <hi>Kings</hi> 21.12.</p>
+            <p>
+               <hi>Que.</hi> 11 Whether doth it not appear as clear as the Sun at noon-day, from the Scriptures already quoted, that God did never inſtitute or approve the office of a King, or Kingly government, but that it is directly oppoſite to the minde and will of God? On the contrary, did not the Lord himſelf ordain a free Common-wealth for his own people, whom hee choſe from all the Nations of the world,
+<pb n="7" facs="tcp:168445:4"/>and then gave them a Government, not like to theirs, (which was King-ſhip) and when they re<g ref="char:EOLhyphen"/>jected this, doth hee not plainly ſay, 1 <hi>Sam.</hi> 8.5. they had rejected him, that hee ſhould not raign over them, 1 <hi>Sam.</hi> 8.7. and doth not God farther ſay, <hi>Hoſ.</hi> 8.3. <hi>Iſrael hath caſt off the thing that is good,</hi> and <hi>verſe</hi> 4. <hi>They have ſet up Kings, but not by mee, they have made Princes, and I knew it not.</hi>
+            </p>
+            <p>
+               <hi>Que.</hi> 12 Whether will this new modell'd King<g ref="char:EOLhyphen"/>ſhip bee the government of Jeſus Chriſt ſo much ſpoken of in Scripture, as alſo in the Remonſtrances, Declarations, and Papers of the Army, particularly in that Declaration from <hi>Muſcleborrough</hi> in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> 1650. wherein they profeſſe themſelves not to bee Souldiers of fortune, nor merely the ſervants of men, but have proclaimed Jeſus Chriſt (the King of Saints) to bee their King? Or will it bee the New <hi>Jeruſalem</hi> deſcending from God out of Heaven, mentioned, <hi>Rev.</hi> 21.2. or the new Heavens, and new Earth, wherein dwells Righteouſneſſe, pro<g ref="char:EOLhyphen"/>miſed and ſpoken of by the Prophets, and in the New Teſtament, 2 <hi>Pet.</hi> 3.13. Or rather is not this thruſt on to prevent, keep out, and ſtand in the way of the ſaid Government of Jeſus Chriſt, and will not that which is ſpoken of by <hi>Ezekiel</hi> the Prophet, bee applicable hereunto; <hi>Thus ſaith the Lord God, Re<g ref="char:EOLhyphen"/>move the Diadem, and take off the Crown;</hi> This ſhall not bee the ſame, exalt him that is low, and abaſe him that is high. <hi>I will overturn, overturn, overturn it;</hi> and it ſhall bee no more, until hee come, whoſe right it is, and I will give it him.</p>
+            <p>
+               <hi>Qu.</hi> 13 Is not Kingſhip one of the ten horns of the Beaſt mentioned, <hi>Rev.</hi> 17.12, And hath it not given its ſtrength and power to the Beaſt for theſe
+<pb n="8" facs="tcp:168445:5"/>many hundred years paſt, and made warre with the Lambe in this Nation from time to time, to the pouring out of much innocent bood of the Saints, <hi>Rev.</hi> 17.13.14. And hath not the Lord broken this horn in peeces here amongſt us, and ſufficiently poured forth contempt, upon this Kingſhip? And ſhall wee yet again make warre with Jeſus Chriſt the Lamb, and deſert his cauſe and work, which hee hath ſo miraculouſly carried on to the wonder and aſtoniſhment of all Spectators; ſo that wee could truly ſay whileſt wee were purſuing that, there was no Rock like unto our Rock, even our enemies being Judges; <hi>Deut.</hi> 32.31. And did not <hi>Englands</hi> Army once rejoyce to ſee this horn of the Beaſt cut off, and encourage <hi>Scotland</hi> thereunto, that they might become one in the Lords hand, and joyn together in the advancement of the Kingdome of Jeſus Chriſt, and to trample down the Seat of the Beaſt, to hate the Whore, and burn her fleſh with fire? See the Declaration of the Engliſh Army in <hi>Scotland,</hi> 1650. p. 7. Armies Declaration. <hi>Aug.</hi> 1. 1650.</p>
+            <p>
+               <hi>Qu.</hi> 14 Whether the Lord doth not by all theſe puniſhments of his inflicted upon his own people, ſufficiently threaten anger againſt any others, that being once free, ſhall upon any account whatſoever give up their liberties into the hands of any one man, to bee a King over them? And whether theſe things where not done as Types and Precedents for after ages; for ſaith the Apoſtle, 1 <hi>Cor.</hi> 10.6. <hi>Theſe things were our examples, to the intent wee ſhould not luſt after evil things, as they alſo luſted,</hi> and <hi>Rom.</hi> 15.4. <hi>Whatſoever things were written afore-time, were written for our learning.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
